@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra
+END
+SharedPreferencesCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/SharedPreferencesCollector.java
+END
+ReflectionCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/ReflectionCollector.java
+END
+DeviceFeaturesCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/DeviceFeaturesCollector.java
+END
+ACRA.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/ACRA.java
+END
+SettingsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/SettingsCollector.java
+END
+Compatibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/Compatibility.java
+END
+DumpSysCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/DumpSysCollector.java
+END
+ErrorReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/ErrorReporter.java
+END
+CrashReportDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/CrashReportDialog.java
+END
+ACRAConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/ACRAConfigurationException.java
+END
+ReportingInteractionMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/ReportingInteractionMode.java
+END
+ReportField.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/ReportField.java
+END
+LogCatCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/LogCatCollector.java
+END
+DropBoxCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/DropBoxCollector.java
+END
+CrashReportData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/CrashReportData.java
+END
+ConfigurationInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/ConfigurationInspector.java
+END

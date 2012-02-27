@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/util
+END
+NaiveTrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/util/NaiveTrustManager.java
+END
+HttpUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/util/HttpUtils.java
+END
+Installation.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/util/Installation.java
+END
+BoundedLinkedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/util/BoundedLinkedList.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/util/Base64.java
+END
+FakeSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/util/FakeSocketFactory.java
+END
+HttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/697/tags/acra-4.2.3/src/main/java/org/acra/util/HttpRequest.java
+END
