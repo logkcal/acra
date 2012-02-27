@@ -3,7 +3,7 @@
 
 	<groupId>org.acra</groupId>
 	<artifactId>acra</artifactId>
-	<version>4.2.3</version>
+	<version>4.2.3-PATCHED</version>
 
 	<name>Application Crash Report for Android</name>
 
